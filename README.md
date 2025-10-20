@@ -1,8 +1,6 @@
-# FOOGLE 🍔👁 — Food Image Classification
-
 ## Overview
 
-FOOGLE is an AI-powered food image classifier built with EfficientNetB2 and the Food-101 dataset. It predicts 101 food categories from photos, providing accurate, real-time results. The Gradio web UI makes FOOGLE easy to use and demo.
+FoodVision is an AI-powered food image classifier built with EfficientNetB2 and the Food-101 dataset. It predicts 101 food categories from photos, providing accurate, real-time results. The Gradio web UI makes FoodVision easy to use and demo.
 
 ## Features
 
@@ -41,7 +39,7 @@ python app.py
 
 ## Example
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=FOOGLE+Demo)
+![image](https://github.com/user-attachments/assets/eb21096c-396d-4e7c-8e9f-2c8f2fcfdbca)
 
 *Upload a food image to get instant classification results!*
 
