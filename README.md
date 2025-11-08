@@ -39,7 +39,9 @@ python app.py
 
 ## Example
 
-![image](https://github.com/user-attachments/assets/eb21096c-396d-4e7c-8e9f-2c8f2fcfdbca)
+<img width="1659" height="827" alt="image" src="https://github.com/user-attachments/assets/d539a64f-df03-4367-86f6-f0091d91dc99" />
+
+
 
 *Upload a food image to get instant classification results!*
 
