@@ -52,11 +52,11 @@ This project uses open source datasets and models. Please review licenses of Foo
 If you use this project, please cite:
 
 ```bibtex
-@misc{foogle2025,
+@misc{foodvision2025,
   author = {Rageya},
-  title = {FOOGLE: Food Classification with EfficientNetB2},
+  title = {Food Vision: Food Classification with EfficientNetB2},
   year = {2025},
-  url = {https://huggingface.co/spaces/Rageya/FOOGLE}
+  url = {https://huggingface.co/spaces/Rageya/Food-Vision}
 }
 ```
 
@@ -65,6 +65,6 @@ If you use this project, please cite:
 **Developed by Rageya**
 
 - 🔗 Repository: [https://github.com/rageya/food-vision](https://github.com/rageya/food-vision)
-- 🤗 Demo: [https://huggingface.co/spaces/Rageya/FOOGLE](https://huggingface.co/spaces/Rageya/FOOGLE)
+- 🤗 Demo: [https://huggingface.co/spaces/Rageya/Food-Vision](https://huggingface.co/spaces/Rageya/Food-Vision)
 
 Built with ❤️ using PyTorch, EfficientNet, and Gradio.
